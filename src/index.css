@@ -1,0 +1,24 @@
+
+body {
+  text-decoration: none;  
+  /* background-image: url('./img/Fitzroy-Peak-Patagonia-Argentina-Mountains-Stones.jpg'); */
+  background-image: url('./img/fondoverde.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 100%; */
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* text-decoration: none; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    /* text-decoration: none; */
+}
+
+/* https://img.freepik.com/fotos-premium/hojas-otono-sobre-vidrio-mojado-tiempo-lluvioso_158518-11049.jpg?w=1380 */
